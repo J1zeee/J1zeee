@@ -1,7 +1,7 @@
 # 𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐉𝟏𝐳𝐞𝐞𝐞 👋
 
 [![](https://img.shields.io/badge/@J1zeee-black?stule=flat-square&logo=github)](https://github.com/J1zeee)
-[![](https://img.shields.io/badge/language-blue?stule=flat-square&logo=C#)]()
+[![](https://img.shields.io/badge/language-blue?stule=flat-square&logo=csharp)]()
 [![](https://img.shields.io/badge/language-red?stule=flat-square&logo=Rust)]()
 
 💼 𝐈'𝐦 𝐂# 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
